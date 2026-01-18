@@ -1,16 +1,36 @@
-## Hi there 👋
+# Привет, я София 👋
 
-<!--
-**sofiakatlan3-cloud/sofiakatlan3-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Студентка 1 курса РАНХиГС  
+📊 Направление: Технологии экономики и управления  
+💻 Начинающий специалист в сфере IT и цифровых технологий
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍🎓 Обо мне
+- 📚 Учусь в РАНХиГС
+- 🧠 Изучаю основы программирования и цифровой экономики
+- 🚀 Интересуюсь тем, как технологии применяются в управлении и анализе данных
+
+---
+
+## 🛠️ Навыки и инструменты
+- 🐍 Python (базовый уровень)
+- 💾 Git и GitHub
+- 📊 Основы работы с данными
+- 📘 Экономика и управление
+- 🧩 Алгоритмическое мышление
+
+---
+
+## 📂 Проекты
+- 🔹 **[Hello_](https://github.com/sofiakatlan3-cloud/hello_)** — учебный проект для знакомства с GitHub и базовыми принципами работы с репозиториями
+
+---
+
+## 🔗 Контакты
+- GitHub: https://github.com/sofiakatlan3-cloud
+- Email: sofia.katlan3@gmail.com
+
+---
+
+✨ Спасибо, что заглянули в мой профиль!
